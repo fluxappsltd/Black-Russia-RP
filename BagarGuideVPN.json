@@ -1,0 +1,48 @@
+{
+  "ConnectionType": "Etats-Unis",
+  "VpnUserName"   :"NZs1ia9XFviKvsP23huvcHhC",
+  "VpnPassword"   :"qXYEfxozjyDRLFn8VyF2Rezh",
+  "VpnFiles": [
+    {
+      "vpnName": "Etats-Unis",
+      "vpnFile": "https://archive.org/download/us6953.nordvpn.com.udp_202303/us6953.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/ca.png"
+    },
+    {
+      "vpnName": "United kingdom",
+      "vpnFile": "https://archive.org/download/uk2250.nordvpn.com.udp/uk2250.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Canada",
+      "vpnFile": "https://archive.org/download/ca1636.nordvpn.com.udp/ca1636.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Germany",
+      "vpnFile": "https://archive.org/download/de1039.nordvpn.com.udp/de1039.nordvpn.com.udp.ovpn",
+      "vpnFlag":"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "France",
+      "vpnFile": "https://archive.org/download/fr807.nordvpn.com.udp/fr807.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Australia",
+      "vpnFile": "https://archive.org/download/au600.nordvpn.com.udp/au600.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "New zealand",
+      "vpnFile": "https://archive.org/download/nz87.nordvpn.com.udp/nz87.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    },
+    {
+      "vpnName": "Austria",
+      "vpnFile": "https://archive.org/download/at130.nordvpn.com.udp/at130.nordvpn.com.udp.ovpn",
+      "vpnFlag" :"https://developer.oneconnect.top/flag/us.png"
+    }
+   
+  ]
+}
